@@ -33,7 +33,7 @@ body {
 }
 
 html {
-	background: #161415 url(../images/bg.jpg) no-repeat center center fixed;
+	background: #161415 url(../images/bg.jpg) center no-repeat center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
@@ -463,19 +463,19 @@ input[type="checkbox"] {
 
 #content-wrap {
 	min-height: 100%;
-	padding-top: 6%;
+	padding-top: 4%;
 }
 
 @media only screen and (max-width:900px) {
 	#content-wrap {
-		padding-top: 9%;
+		padding-top: 6%;
 	}
 
 }
 
 @media only screen and (max-width:768px) {
 	#content-wrap {
-		padding-top: 13%;
+		padding-top: 9%;
 	}
 
 }
@@ -483,14 +483,13 @@ input[type="checkbox"] {
 @media only screen and (max-width:600px) {
 	#content-wrap {
 		min-height: auto;
-		padding-top: 60px;
 	}
 
 }
 
 @media only screen and (max-width:400px) {
 	#content-wrap {
-		padding-top: 54px;
+		padding-top: 35px;
 	}
 
 }
@@ -536,7 +535,7 @@ main hr {
 main .site-header .logo {
 	display: inline-block;
 	vertical-align: middle;
-	margin: 0 0 36px 0;
+	margin: 0 0 20px 0;
 	padding: 0;
 }
 
