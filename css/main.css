@@ -1105,7 +1105,7 @@ main .site-header .logo a {
 	height: 120px;
 }
 
-#mod-about .row {
+#mod-about .row,#mod-map .row {
 	max-width: 750px;
 }
 
@@ -1141,7 +1141,20 @@ main .site-header .logo a {
 	background: url("../images/users@2x.png") no-repeat;
 	background-size: contain;
 }
-
+.map-header .icon-wrap i {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: none;
+	font: 0/0 a;
+	text-shadow: none;
+	color: transparent;
+	width: 70px;
+	height: 56px;
+	background: url("../images/users@2x.png") no-repeat;
+	background-size: contain;
+}
 @media only screen and (max-width:900px) {
 	.about-header {
 		margin-top: 7%;
