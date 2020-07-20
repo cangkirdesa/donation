@@ -1217,11 +1217,11 @@ main .site-header .logo a {
 }
 
 /* about content */
-.about-content {
+.about-content,.map-content {
 	color: white;
 }
 
-.about-content h3 {
+.about-content h3,.map-content h3 {
 	font: 14px/1em "montserrat-bold", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
