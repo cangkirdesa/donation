@@ -1317,7 +1317,6 @@ main .site-header .logo a {
 /* modal map
 ------------------------------------------ */
 #mod-map {
-	background: black;
 	z-index: 999993;
 }
 
