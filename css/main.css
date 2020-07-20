@@ -463,7 +463,7 @@ input[type="checkbox"] {
 
 #content-wrap {
 	min-height: 100%;
-	padding-top: 6%;
+	padding-top: 2%;
 }
 
 @media only screen and (max-width:900px) {
@@ -475,7 +475,7 @@ input[type="checkbox"] {
 
 @media only screen and (max-width:768px) {
 	#content-wrap {
-		padding-top: 13%;
+		padding-top:5%;
 	}
 
 }
@@ -483,7 +483,7 @@ input[type="checkbox"] {
 @media only screen and (max-width:600px) {
 	#content-wrap {
 		min-height: auto;
-		padding-top: 60px;
+		padding-top: 25px;
 	}
 
 }
@@ -519,7 +519,7 @@ main h1 {
 }
 
 main p {
-	font: 17px/36px "montserrat-regular", sans-serif;
+	font: 17px/25px "montserrat-regular", sans-serif;
 	color: #fff;
 	margin-bottom: 18px;
 	padding: 0;
@@ -536,7 +536,7 @@ main hr {
 main .site-header .logo {
 	display: inline-block;
 	vertical-align: middle;
-	margin: 0 0 36px 0;
+	margin: 0 0 10px 0;
 	padding: 0;
 }
 
@@ -565,7 +565,7 @@ main .site-header .logo a {
 	}
 
 	main p {
-		font: 16px/30px "montserrat-regular", sans-serif;
+		font: 16px/25px "montserrat-regular", sans-serif;
 	}
 
 	main .site-header .logo {
@@ -589,7 +589,7 @@ main .site-header .logo a {
 	}
 
 	main p {
-		font: 15px/30px "montserrat-regular", sans-serif;
+		font: 15px/25px "montserrat-regular", sans-serif;
 	}
 
 	main .site-header .logo {
