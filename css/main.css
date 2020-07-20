@@ -894,7 +894,7 @@ main .site-header .logo a {
 	width: 28px;
 	height: 28px;
 	line-height: 28px;
-	background-image: url("../images/users.png");
+	background-image: url("../images/icon_donation.png");
 	left: 24px;
 	background-size: contain;
 }
@@ -903,7 +903,7 @@ main .site-header .logo a {
 	width: 26px;
 	height: 26px;
 	line-height: 28px;
-	background-image: url("../images/icon_donation.png");
+	background-image: url("../images/users.png");
 	left: 30px;
 	background-size: contain;
 }
