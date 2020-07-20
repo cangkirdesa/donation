@@ -646,7 +646,7 @@ main .site-header .logo a {
 	margin: 18px auto 0;
 }
 
-#counter span {
+#counter > span {
 	font: 62px/1em "montserrat-bold", sans-serif;
 	display: block;
 	padding: 12px 0 30px;
@@ -654,7 +654,7 @@ main .site-header .logo a {
 	float: left;
 }
 
-#counter span em {
+.smalltext {
 	font: 11px/18px "montserrat-regular", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
