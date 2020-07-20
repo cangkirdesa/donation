@@ -668,7 +668,7 @@ main .site-header .logo a {
 		width: 92%;
 	}
 
-	#counter span {
+	#counter > span {
 		font: 58px/1em "montserrat-bold", sans-serif;
 	}
 
@@ -679,7 +679,7 @@ main .site-header .logo a {
 		width: 100%;
 	}
 
-	#counter span {
+	#counter > span {
 		font: 52px/1em "montserrat-bold", sans-serif;
 	}
 
@@ -690,7 +690,7 @@ main .site-header .logo a {
 		margin-bottom: 24px;
 	}
 
-	#counter span {
+	#counter > span {
 		font: 48px/1em "montserrat-bold", sans-serif;
 	}
 
@@ -701,11 +701,11 @@ main .site-header .logo a {
 		margin-bottom: 12px;
 	}
 
-	#counter span {
+	#counter > span {
 		font: 37px/1em "montserrat-bold", sans-serif;
 	}
 
-	#counter span em {
+	.smalltext {
 		font: 9px/18px "montserrat-regular", sans-serif;
 		letter-spacing: 1.5px;
 	}
@@ -713,11 +713,11 @@ main .site-header .logo a {
 }
 
 @media only screen and (max-width:400px) {
-	#counter span {
+	#counter > span {
 		font: 31px/1em "montserrat-bold", sans-serif;
 	}
 
-	#counter span em {
+	.smalltext {
 		font: 8px/18px "montserrat-regular", sans-serif;
 		letter-spacing: 1px;
 	}
