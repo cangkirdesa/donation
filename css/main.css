@@ -646,7 +646,7 @@ main .site-header .logo a {
 }
 
 #counter span {
-	font: 62px/1em "montserrat-bold", sans-serif;
+	font: 70px/1em "montserrat-bold", sans-serif;
 	display: block;
 	padding: 12px 0 30px;
 	min-width: 25%;
@@ -668,7 +668,7 @@ main .site-header .logo a {
 	}
 
 	#counter span {
-		font: 58px/1em "montserrat-bold", sans-serif;
+		font: 62px/1em "montserrat-bold", sans-serif;
 	}
 
 }
@@ -679,7 +679,7 @@ main .site-header .logo a {
 	}
 
 	#counter span {
-		font: 52px/1em "montserrat-bold", sans-serif;
+		font: 57px/1em "montserrat-bold", sans-serif;
 	}
 
 }
@@ -690,7 +690,7 @@ main .site-header .logo a {
 	}
 
 	#counter span {
-		font: 48px/1em "montserrat-bold", sans-serif;
+		font: 52px/1em "montserrat-bold", sans-serif;
 	}
 
 }
@@ -701,7 +701,7 @@ main .site-header .logo a {
 	}
 
 	#counter span {
-		font: 37px/1em "montserrat-bold", sans-serif;
+		font: 45px/1em "montserrat-bold", sans-serif;
 	}
 
 	#counter span em {
@@ -713,7 +713,7 @@ main .site-header .logo a {
 
 @media only screen and (max-width:400px) {
 	#counter span {
-		font: 31px/1em "montserrat-bold", sans-serif;
+		font: 37px/1em "montserrat-bold", sans-serif;
 	}
 
 	#counter span em {
